@@ -1,7 +1,7 @@
 public class Calculator {
     public static void main(String[] args) {
-        int a = 30;
-        int b = 20;
+        int a = 33;
+        int b = 22;
 
         int sum = a + b;
         int diff = a - b;
